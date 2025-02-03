@@ -2,7 +2,7 @@
     "Name": "CoSpine Database_pain_dataset",
     "BIDSVersion": "1.8.0",
     "DatasetType": "raw",
-    "License": "CC-BY",
+    "License": "CCO",
     "Authors": [
         "Zhaoxing Wei",
         "Xiaomin Lin",
