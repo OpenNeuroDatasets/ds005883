@@ -1,0 +1,40 @@
+{
+    "participant_id": {
+        "Description": "Participant identifier",
+        "Units": "N/A"
+    },
+    "age": {
+        "Description": "Age of the participant",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "Biological sex of the participant",
+        "Levels": {
+            "M": "Male",
+            "F": "Female",
+            "O": "Other",
+            "U": "Unspecified"
+        },
+        "Units": "N/A"
+    },
+    "education": {
+        "Description": "Years of formal education completed by the participant",
+        "Units": "years"
+    },
+    "weight": {
+        "Description": "Weight of the participant",
+        "Units": "kg"
+    },
+    "height": {
+        "Description": "Height of the participant",
+        "Units": "cm"
+    },
+    "heat_temperature": {
+        "Description": "Heat stimuli temperature of the participant",
+        "Units": "°C"
+    },
+    "comments": {
+        "Description": "Additional comments or notes about the participant",
+        "Units": "N/A"
+    }
+}
