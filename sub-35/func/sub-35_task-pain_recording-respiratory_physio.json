@@ -1,13 +1,18 @@
 {
-    "SamplingFrequency": 400,
-    "StartTime": 52593917,
-    "Columns": [
-        "RESP",
-        "Trigger"
-    ],
-    "Units": [
-        "a.u.",
-        "boolean"
-    ],
-    "Duration": 709200
+  "SamplingFrequency": 400,
+  "StartTime": 52593917,
+  "Columns": [
+    "RESP",
+    "Trigger"
+  ],
+  "Units": [
+    "a.u.",
+    "boolean"
+  ],
+  "Duration": 709200,
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Physiologic Monitoring Unit (PMU)",
+  "SoftwareVersions": "n/a",
+  "DeviceSerialNumber": "PMU-XXXX",
+  "TaskName": "pain"
 }
