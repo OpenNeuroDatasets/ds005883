@@ -25,7 +25,10 @@
         "Description": "Height of the participant",
         "Units": "cm"
     },
-
+    "heat_temperature": {
+       "Description": "Temperature of the thermal pain stimulus used during scanning",
+       "Units": "°C"
+     },
     "comments": {
         "Description": "Additional comments or notes about the participant",
         "Units": "N/A"
