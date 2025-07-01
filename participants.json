@@ -1,7 +1,4 @@
 {
-    "participant_id": {
-        "Description": "Participant identifier"
-    },
     "age": {
         "Description": "Age of the participant",
         "Units": "years"
@@ -28,10 +25,7 @@
         "Description": "Height of the participant",
         "Units": "cm"
     },
-    "heat_temperature": {
-        "Description": "Heat stimuli temperature of the participant",
-        "Units": "°C"
-    },
+
     "comments": {
         "Description": "Additional comments or notes about the participant",
         "Units": "N/A"
