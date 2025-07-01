@@ -58,7 +58,6 @@
   "PulseSequenceDetails": "%SiemensSeq%_ep2d_diff",
   "RefLinesPE": 40,
   "ConsistencyInfo": "N4_VE11C_LATEST_20160120",
-  "MultibandAccelerationFactor": 2,
   "PercentPhaseFOV": 100,
   "EchoTrainLength": 55,
   "PhaseEncodingSteps": 110,
@@ -90,5 +89,12 @@
   "PulseSequenceType": "EPI",
   "B0FieldIdentifier": "b0map",
   "MTState": false,
-  "SpoilingState": false
+  "SpoilingState": false,
+  "GradientSetType": "XR",
+  "ParallelReductionFactorOutOfPlane": 1,
+  "ParallelAcquisitionTechnique": "GRAPPA",
+  "PartialFourierDirection": "PHASE",
+  "SliceEncodingDirection": "k",
+  "MixingTime": 0.0,
+  "MultibandAccelerationFactor": 2
 }

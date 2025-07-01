@@ -1,4 +1,11 @@
 {
+  "StimulusPresentation": {
+    "OperatingSystem": "Windows",
+    "PresentationSoftware": "E-Prime",
+    "PresentationSoftwareVersion": "2.0",
+    "StimulusOnsetSync": "Trigger pulse from scanner via parallel port",
+    "ExternalDevices": "A 27×27 mm² surface thermode (PATHWAY CHEPs, Medoc Ltd, Ramat Yishai, Israel)"
+  },
   "onset": {
     "Description": "Start time of the event (seconds)",
     "Units": "s"

@@ -84,5 +84,10 @@
   "ParallelReductionFactorInPlane": 2,
   "PulseSequenceType": "MPRAGE",
   "SpoilingState": false,
-  "TotalReadoutTime": 0.001956
+  "TotalReadoutTime": 0.001956,
+  "ParallelReductionFactorOutOfPlane": 1,
+  "ParallelAcquisitionTechnique": "GRAPPA",
+  "MixingTime": 0,
+  "PhaseEncodingDirection": "j",
+  "MultibandAccelerationFactor": 0
 }
